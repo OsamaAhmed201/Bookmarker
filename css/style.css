@@ -1,0 +1,15 @@
+.temp
+{
+    background-color: antiquewhite;
+}
+.perant
+{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+    background:linear-gradient(rgb(179, 214, 234),rgb(248, 248, 248)) ;
+    margin-bottom: 15px;
+    padding: 0 30px;
+}
